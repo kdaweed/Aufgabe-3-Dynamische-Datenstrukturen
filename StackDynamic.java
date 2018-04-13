@@ -115,3 +115,4 @@ public class StackDynamic<E>{
 		}
 	}
 }
+// Test komment David
