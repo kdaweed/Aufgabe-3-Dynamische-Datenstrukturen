@@ -15,4 +15,5 @@ public class MyStackDemo{
 		// System.out.println(q.size());
 		System.out.println(q);
 	}
+	//Demo 
 }
